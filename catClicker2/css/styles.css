@@ -1,0 +1,8 @@
+.cat {
+  width: 45%;
+}
+
+.cat img {
+  display: block;
+  width: 100%;
+}
