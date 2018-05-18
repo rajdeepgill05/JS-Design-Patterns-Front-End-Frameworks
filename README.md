@@ -10,3 +10,7 @@
 ### May 18th, 2018
 
 [HTML 5 Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
+
+[Easy Jquery Tutorial](https://www.w3schools.com/jquery/)
+
+[Cat Clicker v3.0](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/catClicker3)
