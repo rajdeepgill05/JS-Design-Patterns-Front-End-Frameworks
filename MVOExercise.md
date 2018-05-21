@@ -18,6 +18,13 @@ Your first step should be to plan. What is going to be your data (Model)? What i
 
 ### Extend the Udacity **Notes** application.
 
+#### Clearing all Notes
+It would be great if we could actually clear our notes by clicking a button instead of having to use the console. The console works, but it's not very user friendly. Let's add a button that will do this for us!
+
+Try to think about where the code should exist in the MVO pattern before you add it. Sometimes there isn't always a clear answer as to the code should be so everyones answer may differ a little.
+
+
+#### Removing Individual Notes
 Adding notes is great, but how about removing notes? I really feel like this application could be taken a step further and have notes removed. Without actually writing the code, look at how the current code is structured and plan out the following:
 
 1) How would you remove notes?
