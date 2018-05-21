@@ -22,3 +22,5 @@
 [JSON Stringify](https://www.w3schools.com/js/js_json_stringify.asp)
 
 [JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
+
+[Updated Udacity Notes app with No JQuery](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/udacity-notes)
