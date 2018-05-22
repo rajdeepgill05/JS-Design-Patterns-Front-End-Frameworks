@@ -1,17 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
     const model = {
         init: function () {
-            if (!localStorage.notes) {
-                localStorage.notes = JSON.stringify([]);
-            }
+            this.notes = []
         },
         add: function (obj) {
-            var data = JSON.parse(localStorage.notes);
-            data.push(obj);
-            localStorage.notes = JSON.stringify(data);
+            this.notes.push(obj);
         },
         getAllNotes: function () {
-            return JSON.parse(localStorage.notes);
+            return this.notes
         }
     };
 
@@ -30,6 +26,10 @@ document.addEventListener("DOMContentLoaded", () => {
         init: function () {
             model.init();
             view.init();
+        },
+        clearNotes: function() {
+            model.init();
+            view.render();
         }
     };
 
@@ -39,11 +39,18 @@ document.addEventListener("DOMContentLoaded", () => {
             this.noteList = document.querySelector('#notes');
             let newNoteForm = document.querySelector('#new-note-form');
             let newNoteContent = document.querySelector('#new-note-content');
+            const clearNotes = document.querySelector('.remove-notes')
+            
             newNoteForm.addEventListener('submit', (e) => {
                 octopus.addNewNote(newNoteContent.value);
                 newNoteContent.value = '';
                 e.preventDefault();
             });
+
+            clearNotes.addEventListener('click', function() {
+                octopus.clearNotes();
+            });
+
             view.render();
         },
         render: function () {
