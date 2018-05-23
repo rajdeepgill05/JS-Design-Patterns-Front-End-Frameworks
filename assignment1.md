@@ -26,5 +26,6 @@ Project Requirements:
         4) The year the book was published.        
 2) Your application should implement the Model-View-Octopus pattern.
 3) Users should be able to *add* a new book to the bookshelf with all the necessary information.
-4) Users should be able to *mark a book as `read`* using some sort of clickable element.
+4) Users should be able to *mark a book as `read`* using some sort of clickable element, which highlight the books image with a green border.
 
+Don't worry about the CSS, Design or Layout. The focus of this assignment is designing an app using the MVO pattern.
