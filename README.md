@@ -14,3 +14,15 @@
 [Easy Jquery Tutorial](https://www.w3schools.com/jquery/)
 
 [Cat Clicker v3.0](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/catClicker3)
+
+### May 22nd, 2018
+
+[Javascript String Formatting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)
+
+[JSON Stringify](https://www.w3schools.com/js/js_json_stringify.asp)
+
+[JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
+
+[Updated Udacity Notes app with No JQuery](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/udacity-notes)
+
+[MVO Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/MVOExercise.md)
