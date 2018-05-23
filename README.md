@@ -26,3 +26,9 @@
 [Updated Udacity Notes app with No JQuery](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/udacity-notes)
 
 [MVO Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/MVOExercise.md)
+
+### May 23rd, 2018
+
+[Assignment 1](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/assignment1.md)
+
+[MVO Bookshelf Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/MVOBookShelf)
