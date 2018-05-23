@@ -1,6 +1,8 @@
 ## Assignment #1
 
-### MVO Bookshelf App
+### MVO Bookshelf App 
+
+This assignment accounts for 15% of your final grade
 
 You should submit an archive (`.zip` file) for this assignment. This archive should contain all the necessary HTML, CSS and JS required to sucessfully run the app.
 
@@ -10,7 +12,7 @@ Your `.zip` file containing your solution files should be uploaded to the [Assig
 
 You can NOT submit more than 1 file. 
 
-See [Assignment #1 rubric](https://github.com/jniziol/ObjectOrientedJavascript/blob/master/SD120%20Assignment%20%232%20-%20Rubric.pdf) for the evaluation criteria.
+See [Assignment #1 rubric](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/SD%20Assignment%20%231%20-%20Rubric.pdf) for the evaluation criteria.
 
 **NO LATE ASSIGNMENTS WILL BE ACCEPTED**
 
