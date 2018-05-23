@@ -28,10 +28,3 @@ Project Requirements:
 3) Users should be able to *add* a new book to the bookshelf with all the necessary information.
 4) Users should be able to *mark a book as `read`* using some sort of clickable element.
 
-Create a simple Bookshelf MVO application.
-Requirements:
-
-Must display at least 5 books on the page
-
-
-Your first step should be to plan. What is going to be your data (Model)? What is going to be your displayed on the page (your View) and how do you plan on gluing thos pieces together? Review the simple Notes MVO app for some ideas.
