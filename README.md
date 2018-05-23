@@ -32,3 +32,5 @@
 [Assignment 1](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/assignment1.md)
 
 [MVO Bookshelf Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/MVOBookShelf)
+
+[Andy's Cat Clicker Updated w/ No Jquery](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/cat-clicker-andy)
