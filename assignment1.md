@@ -8,7 +8,7 @@ You should submit an archive (`.zip` file) for this assignment. This archive sho
 
 The `.zip` file should contain your first and last name.
 
-Your `.zip` file containing your solution files should be uploaded to the [Assignment #1 Dropbox link](https://www.dropbox.com/request/mgIP7rNZ3EuJ62E2nZBN), no later than 8:45 AM, Tuesday, May 25th, 2018.
+Your `.zip` file containing your solution files should be uploaded to the [Assignment #1 Dropbox link](https://www.dropbox.com/request/mgIP7rNZ3EuJ62E2nZBN), no later than 8:45 AM, Friday, May 25th, 2018.
 
 You can NOT submit more than 1 file. 
 
