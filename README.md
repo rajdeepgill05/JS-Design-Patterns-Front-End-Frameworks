@@ -40,3 +40,5 @@
 ### May 25th, 2018
 
 [Fake API](https://jsonplaceholder.typicode.com/)
+
+[HTTP Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
