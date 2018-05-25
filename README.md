@@ -44,3 +44,5 @@
 [HTTP Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
 
 [HTTP Status Codes](https://www.w3schools.com/tags/ref_httpmessages.asp)
+
+[What is a URL](https://launchschool.com/books/http/read/what_is_a_url)
