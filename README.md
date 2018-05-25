@@ -42,3 +42,5 @@
 [Fake API](https://jsonplaceholder.typicode.com/)
 
 [HTTP Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
+
+[HTTP Status Codes](https://www.w3schools.com/tags/ref_httpmessages.asp)
