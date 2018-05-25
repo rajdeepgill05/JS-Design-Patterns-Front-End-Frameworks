@@ -36,3 +36,9 @@
 [Andy's Cat Clicker Updated w/ No Jquery](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/cat-clicker-andy)
 
 [Himanshu's Cat Clicker - Partial Refactor](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/himanshu-cat-clicker)
+
+### May 25th, 2018
+
+[Fake API](https://jsonplaceholder.typicode.com/)
+
+
