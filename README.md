@@ -50,3 +50,5 @@
 [HTTP Headers Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/HTTPHeadersExercise.md)
 
 [Ajax Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/ajaxExercises1.md)
+
+[Parse JSON](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/JSONExercises.md)
