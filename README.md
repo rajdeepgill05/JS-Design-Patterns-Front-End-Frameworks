@@ -46,3 +46,7 @@
 [HTTP Status Codes](https://www.w3schools.com/tags/ref_httpmessages.asp)
 
 [What is a URL](https://launchschool.com/books/http/read/what_is_a_url)
+
+[HTTP Headers Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/HTTPHeadersExercise.md)
+
+[Ajax Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/ajaxExercises1.md)
