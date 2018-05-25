@@ -41,4 +41,5 @@
 
 [Fake API](https://jsonplaceholder.typicode.com/)
 
+[NYT API](https://developer.nytimes.com/article_search_v2.json#/Documentation/GET/articlesearch.json)
 
