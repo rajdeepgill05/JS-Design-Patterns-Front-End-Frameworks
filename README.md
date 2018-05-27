@@ -52,3 +52,7 @@
 [Ajax Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/ajaxExercises1.md)
 
 [Parse JSON](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/JSONExercises.md)
+
+### May 28th, 2018
+
+[Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
