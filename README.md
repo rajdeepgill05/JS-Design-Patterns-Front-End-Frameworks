@@ -56,3 +56,5 @@
 ### May 28th, 2018
 
 [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+[Promises Practice](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/PromisesExercises.md)
