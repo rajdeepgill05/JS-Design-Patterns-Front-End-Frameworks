@@ -58,3 +58,7 @@
 [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
 [Promises Practice](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/PromisesExercises.md)
+
+[Assignment 1 Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/Assignment1Soln)
+
+[Ajax Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/AjaxExercise)
