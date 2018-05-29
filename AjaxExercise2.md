@@ -18,7 +18,7 @@ Sign up for new API keys at both *New York Times* and *Unsplash*
 
 ----
 
-1) Using the unsplash API, write code to have your app search for photos of your favorite animal and output the first page worth of images onto your page.
+1) Using the unsplash API, write code to have your app [search for photos](https://unsplash.com/documentation#search-photos) of your favorite animal and output the first page worth of images onto your page.
 2) Similar to how we added the Unsplash image to the page. Search for a single page (10 articles), using your same favorite animal, from the NY Times API. Create a link on the page that links back to the article, and include the snippet about the article below the link.
 3) Create some inputs that accepts the following information `title`, `body` and `userId`. Submit this to the `/posts` endpoint of [this API](https://jsonplaceholder.typicode.com/). Check out this [link](https://github.com/typicode/jsonplaceholder#how-to
 ) for some usage information. Once it's been successful, update the page to indicate the submission was successful and include the ID of the new post that was created. Do not use a `form` to surround your inputs, otherwise you may find you get into some troubles.
