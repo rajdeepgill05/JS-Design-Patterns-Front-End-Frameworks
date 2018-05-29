@@ -58,3 +58,13 @@
 [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
 [Promises Practice](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/PromisesExercises.md)
+
+[Assignment 1 Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/Assignment1Soln)
+
+[Ajax Exercise Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/AjaxExercise)
+
+### May 29th, 2018
+
+[Ajax Exercise #2](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/AjaxExercise2.md)
+
+[Fetch Youtube Video using JSONPlaceholder](https://www.youtube.com/watch?v=Oive66jrwBs)
