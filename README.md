@@ -62,3 +62,7 @@
 [Assignment 1 Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/Assignment1Soln)
 
 [Ajax Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/AjaxExercise)
+
+### May 29th, 2018
+
+[Ajax Exercise #2](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/AjaxExercise2.md)
