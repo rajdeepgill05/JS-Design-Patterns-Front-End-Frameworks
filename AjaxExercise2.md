@@ -13,7 +13,14 @@ Sign up for new API keys at both *New York Times* and *Unsplash*
 * Check out the article search section of the API https://developer.nytimes.com/article_search_v2.json
 * Also check out the API Experiment page to try the API and see some of the associated code - https://developer.nytimes.com/article_search_v2.json#/Console/GET/articlesearch.json
 
+### Typicode JSON PlaceHolder
+* No developer account required!
+
+----
+
 1) Using the unsplash API, write code to have your app search for photos of your favorite animal and output the first page worth of images onto your page.
 2) Similar to how we added the Unsplash image to the page. Search for a single page (10 articles) from the NY Times API. Create a link on the page that links back to the article, and include the snippet about the article below the link.
+3) Create some inputs that accepts the following information `title`, `body` and `userId`. Submit this to the `/posts` endpoint of this API. Check out this [link](https://github.com/typicode/jsonplaceholder#how-to
+) for some usage information. Once it's been successful, output the information of the new post to the web page, including the new postId.
 
 It's worth checking out Udacity 4.7 - Ajax with Fetch again if you want to know more about using the Javascript fetch API.
