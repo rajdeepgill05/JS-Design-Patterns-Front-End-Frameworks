@@ -66,3 +66,5 @@
 ### May 29th, 2018
 
 [Ajax Exercise #2](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/AjaxExercise2.md)
+
+[Fetch Youtube Video using JSONPlaceholder](https://www.youtube.com/watch?v=Oive66jrwBs)
