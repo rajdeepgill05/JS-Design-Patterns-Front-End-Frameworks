@@ -70,3 +70,9 @@
 [Fetch Youtube Video using JSONPlaceholder](https://www.youtube.com/watch?v=Oive66jrwBs)
 
 [Promises Practice Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/PromisesPractice)
+
+### May 30th, 2018
+
+[Assignment #2](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/assignment2.md)
+
+[Unsplash, NYT Exercise Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/unsplash)
