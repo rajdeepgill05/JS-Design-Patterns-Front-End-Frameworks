@@ -1,4 +1,4 @@
-Assignment #2 AJAX
+# Assignment #2 AJAX
 
 This assignment accounts for 15% of your final grade
 
