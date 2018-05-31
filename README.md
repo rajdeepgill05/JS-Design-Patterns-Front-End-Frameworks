@@ -76,3 +76,7 @@
 [Assignment #2](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/assignment2.md)
 
 [Unsplash, NYT Exercise Solution](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/tree/master/unsplash)
+
+### May 31st, 2018
+
+[W3 Schools Angular 1.x Tutorial](https://www.w3schools.com/angular/)
