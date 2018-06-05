@@ -34,6 +34,6 @@ You are likely going to need to use the following directives: `ng-repeat`, `ng-i
 
 You can include the Angular Javascript file directly in your HTML by either downloading it or linking directly to it. We will NOT be using any build tools or package managers for this exercise. You can download it here: https://angularjs.org/
 
-I will select a 5 students at random tomorrow to present their We will be presenting our apps to the class beginning of day tomorrow.
+I will select a 5 students at random to present to the class tomorrow.
 
 For a good beginner reference on Angular, check out W3 Schools Angular Tutorial: https://www.w3schools.com/angular/angular_filters.asp
