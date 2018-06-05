@@ -80,3 +80,7 @@
 ### May 31st, 2018
 
 [W3 Schools Angular 1.x Tutorial](https://www.w3schools.com/angular/)
+
+### June 6th, 2018
+
+[Angular Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/angularExercise.md)
