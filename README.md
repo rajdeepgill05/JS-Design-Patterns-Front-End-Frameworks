@@ -89,4 +89,8 @@
 
 [Assignment #3](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment-3.md)
 
+### June 8th, 2018
+
 [Introducing the Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers/)
+
+[MDN Docs on waitUntil](https://developer.mozilla.org/en-US/docs/Web/API/ExtendableEvent/waitUntil)
