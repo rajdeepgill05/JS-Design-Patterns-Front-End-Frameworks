@@ -1,5 +1,18 @@
 # SD 140 - Assignment #3
 
+This assignment accounts for 15% of your final grade
+
+You should submit an archive (`.zip` file) for this assignment. This archive should contain all the necessary HTML, CSS and JS required to sucessfully run the app.
+
+The `.zip` file should contain your first and last name.
+
+Your `.zip` file containing your solution files should be uploaded to the [Assignment #3 Dropbox link](https://www.dropbox.com/request/p3SOoQWwjV9wO8JBaTrG
+), no later than 3:30 PM, Friday, June 8th, 2018.
+
+You can NOT submit more than 1 file. 
+
+See [Assignment #3 rubric](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment%203%20-%20Rubric%20-%20Rubric%20.pdf) for the evaluation criteria.
+
 ## Restaurant Ratings App
 
 ### Description
