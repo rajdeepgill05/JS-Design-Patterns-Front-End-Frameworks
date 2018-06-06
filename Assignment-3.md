@@ -11,7 +11,7 @@ Your `.zip` file containing your solution files should be uploaded to the [Assig
 
 You can NOT submit more than 1 file. 
 
-See [Assignment #3 rubric](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment%203%20-%20Rubric%20-%20Rubric%20.pdf) for the evaluation criteria.
+See [Assignment #3 rubric](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/SD-140%20Assignment%203%20Rubric%20-%20Rubric.pdf) for the evaluation criteria.
 
 ## Restaurant Ratings App
 
