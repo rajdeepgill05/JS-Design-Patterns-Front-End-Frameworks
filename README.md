@@ -84,3 +84,7 @@
 ### June 6th, 2018
 
 [Angular Exercise](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/angularExercise.md)
+
+### June 7th, 2018
+
+[Assignment #3](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment-3.md)
