@@ -88,3 +88,5 @@
 ### June 7th, 2018
 
 [Assignment #3](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment-3.md)
+
+[Introducing the Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers/)
