@@ -32,9 +32,9 @@ You will create a restaurant ratings app. People will be able to to go to your s
 
 ### Tips
 
-The data for your restuarants cart should be maintained in your service.
+The data for your restaurants should be maintained in your service.
 
-You are likely going to need to use the following directives: `ng-repeat`, `ng-controller`, `ng-app`, `ng-src`, `ng-if`, `ng-click` and more, depending on how you construct your app. Make sure you review the documentation, or try Googling when you run into some troubles.
+You are likely going to need to use the following directives: `ng-repeat`, `ng-controller`, `ng-app`, `ng-src`, `ng-if`, `ng-click`, `ng-class` and more, depending on how you construct your app. Make sure you review the documentation, or try Googling when you run into some troubles.
 
 I recommend you add a CSS file this app to help with the background color changes.
 
