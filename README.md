@@ -95,7 +95,7 @@
 
 [MDN Docs on waitUntil](https://developer.mozilla.org/en-US/docs/Web/API/ExtendableEvent/waitUntil)
 
-[MDN Docs on CacheStorage](https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage/open)
+[MDN Docs on CacheStorage](https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage)
 
 [Caching Files with Service Worked](https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker#cachefallback)
 
