@@ -91,6 +91,8 @@
 
 ### June 8th, 2018
 
+[Exercise Service Worker](https://developers.google.com/web/ilt/pwa/lab-scripting-the-service-worker)
+
 [Introducing the Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers/)
 
 [MDN Docs on waitUntil](https://developer.mozilla.org/en-US/docs/Web/API/ExtendableEvent/waitUntil)
