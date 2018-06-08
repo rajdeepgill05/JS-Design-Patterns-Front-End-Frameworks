@@ -111,7 +111,7 @@
 
 [Cachin Files with the Service Worker](https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker)
 
-[Caching files with Service Worker](https://developers.google.com/web/ilt/pwa/lab-caching-files-with-service-worker)
+[Caching files with the Service Worker Lab](https://developers.google.com/web/ilt/pwa/lab-caching-files-with-service-worker)
 
 
 
